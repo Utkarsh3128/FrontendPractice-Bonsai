@@ -1,4 +1,4 @@
-# FrontendPratice-Bonsai
+# FrontendPractice-Bonsai
 
 Hello Everyone, This is my third practice project and all materials owned by companies and individuals whose website is featured on https://www.frontendpractice.com/ are meant for practice purposes only.
 
